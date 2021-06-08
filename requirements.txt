@@ -18,7 +18,7 @@ motor
 natsort
 git+https://github.com/Nekos-life/Async-nekos.life-wrapper
 oauth2client
-Pillow==8.1.1
+Pillow==8.2.0
 psutil
 pybase64
 pymediainfo
